@@ -1,5 +1,4 @@
-# ModelosLinealesGeneralizados
-Projecto de Trabajo Final
+# Un enfoque bayesiano para el análisis del tiempo de desplazamiento de usuarios del Sistema de Bicicletas Públicas de la Ciudad de México
 
 15 de noviembre de 2019
 
